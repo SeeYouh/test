@@ -1,3 +1,3 @@
 const helloWorld = () => {
-  return console.log("Oh good");
+  return console.log("Yes");
 };
